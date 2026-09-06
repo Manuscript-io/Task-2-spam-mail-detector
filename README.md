@@ -159,13 +159,3 @@ The trained model and TF-IDF vectorizer were saved using Joblib:
 - `tfidf_vectorizer.pkl`
 
 These files can be used later to make predictions without retraining the model.
-
-## Project Structure
-
-```text
-Task-2-spam-mail-detector/
-│
-├── spam_mail_detector.ipynb
-├── spam_classifier.pkl
-├── tfidf_vectorizer.pkl
-└── README.md
